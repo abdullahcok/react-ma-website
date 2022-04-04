@@ -44,19 +44,13 @@
 
 .i-title-wrapper {
   height: 100%;
-  animation: move 4s ease-in-out infinite alternate;
+  animation: move 3s ease-in-out infinite;
   color: #555;
 }
 
 @keyframes move {
-  33% {
+  50% {
     transform: translateY(-50px);
-  }
-  66% {
-    transform: translateY(-100px);
-  }
-  100% {
-    transform: translateY(-150px);
   }
 }
 
@@ -78,6 +72,7 @@
   height: 30px;
   position: absolute;
   bottom: 20px;
+  margin: 0 0 0 50px;
 }
 
 
