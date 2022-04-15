@@ -25,7 +25,7 @@ const Introduction = () => {
             </div>
           </div>
           <p className="i-desc">
-            I'm a developer gene, writer lobe, pedal addict, skate motive, coffee freak and late V.
+            also a pedal addict, skate motive, coffee freak and late V.
           </p>
           <div className="i-links">
             <div className="i-link-wrapper">
