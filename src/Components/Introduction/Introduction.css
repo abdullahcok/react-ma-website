@@ -66,7 +66,8 @@
 }
 
 .i-desc{
-  width: 140%;
+  width: 100%;
+  font-size: 18px;
 }
 
 .i-scroll {
@@ -147,6 +148,7 @@
   
   .i-desc{
     width: 100%;
+    font-size: 18px;
   }
 
   .i-links{
@@ -187,6 +189,7 @@
   
   .i-desc{  
     width: 100%;
+    font-size: 18px;
     padding: 0px 0;
   }
 
